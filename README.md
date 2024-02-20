@@ -14,3 +14,4 @@ A list of PC games that weren't originally designed to be played in VR but have 
 | Deep Rock Galactic | [VRG](https://mod.io/g/drg/m/vrg) | Yes | No |
 | Valheim | [VHVR](https://www.nexusmods.com/valheim/mods/847) | Yes | No |
 | Far Cry | [Far Cry VR](https://farcryvr.de/) | Yes | No |
+| Lethal Company | [Lethal Company VR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/) | Yes | No |
