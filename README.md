@@ -1,5 +1,5 @@
 # flat2vr-list
-A list of PC games that are usually played normally but have an option or mod to play them in VR.
+A list of PC games that weren't originally designed to be played in VR but have a mod or option to.
 
 | Game | Mod | PCVR | Sideload |
 |-|-|-|-|
