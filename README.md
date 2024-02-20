@@ -18,3 +18,4 @@ A list of PC games that weren't originally designed to be played in VR but have 
 | Left 4 Dead 2 | [l4dvr](https://github.com/sd805/l4d2vr) | Yes | No |
 | Portal 2 | [portal2vr](https://github.com/Gistix/portal2vr) | Yes | No |
 | Gunfire Reborn | [GunfireRebornVRMod](https://github.com/xPrinny/GunfireRebornVRMod) | Yes | No |
+| Subnautica | [SubmersedVR](https://github.com/xPrinny/GunfireRebornVRMod) | Yes | No |
