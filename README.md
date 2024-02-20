@@ -9,3 +9,4 @@ A list of PC games that are usually played normally but have an option or mod to
 | Deux Ex | [DXU24](https://twitter.com/DXU241)https://twitter.com/DXU241 | No | Yes |
 | Half-Life | [Half-Life VR Mod](https://store.steampowered.com/app/1908720/HalfLife_VR_Mod/) | Yes | No |
 | Half-Life 2 | [Half-Life 2 VR Mod](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/) | Yes | No |
+| Alien Isolation | [MotherVR](https://github.com/Nibre/MotherVR/releases)https://github.com/Nibre/MotherVR/releases | Yes | No |
