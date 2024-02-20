@@ -13,3 +13,4 @@ A list of PC games that weren't originally designed to be played in VR but have 
 | Doom 3 | [Doom3Quest](https://www.doom3quest.com/) | No | Yes |
 | Deep Rock Galactic | [VRG](https://mod.io/g/drg/m/vrg) | Yes | No |
 | Valheim | [VHVR](https://www.nexusmods.com/valheim/mods/847) | Yes | No |
+| Far Cry | [Far Cry VR](https://farcryvr.de/) | Yes | No |
