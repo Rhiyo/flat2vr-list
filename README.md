@@ -11,3 +11,4 @@ A list of PC games that are usually played normally but have an option or mod to
 | Half-Life 2 | [Half-Life 2 VR Mod](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/) | Yes | No |
 | Alien Isolation | [MotherVR](https://github.com/Nibre/MotherVR/releases) | Yes | No |
 | Doom 3 | [Doom3Quest](https://www.doom3quest.com/) | No | Yes |
+| Deep Rock Galactic | [VRG](https://mod.io/g/drg/m/vrg) | Yes | No |
