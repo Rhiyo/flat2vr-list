@@ -15,3 +15,4 @@ A list of PC games that weren't originally designed to be played in VR but have 
 | Valheim | [VHVR](https://www.nexusmods.com/valheim/mods/847) | Yes | No |
 | Far Cry | [Far Cry VR](https://farcryvr.de/) | Yes | No |
 | Lethal Company | [Lethal Company VR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/) | Yes | No |
+| Left 4 Dead 2 | [l4dvr](https://github.com/sd805/l4d2vr) | Yes | No |
