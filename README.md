@@ -17,3 +17,4 @@ A list of PC games that weren't originally designed to be played in VR but have 
 | Lethal Company | [Lethal Company VR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/) | Yes | No |
 | Left 4 Dead 2 | [l4dvr](https://github.com/sd805/l4d2vr) | Yes | No |
 | Portal 2 | [portal2vr](https://github.com/Gistix/portal2vr) | Yes | No |
+| Gunfire Reborn | [GunfireRebornVRMod](https://github.com/Astienth/gunfire-reborn-bhaptics/releases/tag/1.0.0) | Yes | No |
