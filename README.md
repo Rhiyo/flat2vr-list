@@ -12,3 +12,4 @@ A list of PC games that are usually played normally but have an option or mod to
 | Alien Isolation | [MotherVR](https://github.com/Nibre/MotherVR/releases) | Yes | No |
 | Doom 3 | [Doom3Quest](https://www.doom3quest.com/) | No | Yes |
 | Deep Rock Galactic | [VRG](https://mod.io/g/drg/m/vrg) | Yes | No |
+| Valheim | [VHVR](https://www.nexusmods.com/valheim/mods/847) | Yes | No |
