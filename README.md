@@ -27,6 +27,6 @@ A list of PC games that weren't originally designed to be played in VR but have 
 | Shadow Warrior | [RazeXR](https://github.com/DrBeef/RazeXR) | No | Yes | |
 | Prey (2006) | [PreyVR](https://github.com/lvonasek/PreyVR) | No | Yes | |
 | Doom | [QuestZDoom](https://github.com/DrBeef/QuestZDoom) | No | Yes | |
-| Doom | [GZ3DOOM](https://github.com/Fishbiter/gz3doom) | Yes | No | |
+| | [GZ3DOOM](https://github.com/Fishbiter/gz3doom) | Yes | No | |
 | Heretic | [QuestZDoom](https://github.com/DrBeef/QuestZDoom) | No | Yes | |
 | Hexen Beyond Heretic | [QuestZDoom](https://github.com/DrBeef/QuestZDoom) | No | Yes | |
