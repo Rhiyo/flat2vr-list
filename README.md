@@ -12,6 +12,7 @@ A list of PC games that weren't originally designed to be played in VR but have 
 | Half-Life 2 | [Half-Life 2 VR Mod](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/) | Yes | No |
 | Alien Isolation | [MotherVR](https://github.com/Nibre/MotherVR/releases) | Yes | No |
 | Doom 3 | [Doom3Quest](https://www.doom3quest.com/) | No | Yes |
+| Doom 3 BFG | [DOOM-3-BFG-VR](https://github.com/KozGit/DOOM-3-BFG-VR) | Yes | No |
 | Deep Rock Galactic | [VRG](https://mod.io/g/drg/m/vrg) | Yes | No |
 | Valheim | [VHVR](https://www.nexusmods.com/valheim/mods/847) | Yes | No |
 | Far Cry | [Far Cry VR](https://farcryvr.de/) | Yes | No |
