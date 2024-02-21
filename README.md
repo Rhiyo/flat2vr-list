@@ -32,3 +32,8 @@ A list of PC games that weren't originally designed to be played in VR but have 
 | Heretic | [QuestZDoom](https://github.com/DrBeef/QuestZDoom) | No | Yes | |
 | Hexen Beyond Heretic | [QuestZDoom](https://github.com/DrBeef/QuestZDoom) | No | Yes | |
 | Risk of Rain 2 | [Risk of Rain 2 VR Mod](https://thunderstore.io/package/DrBibop/VRMod/#:~:text=Playing%20in%20VR%20should%20be,mode%20in%20the%20game%27s%20properties.) | Yes | No | |
+| Outer Wilds | [NomaiVR](https://raicuparta.com/outer-wilds-vr-mod) | Yes | No |
+| Hardspace Shipbreaker | [ShipbreakerVR](https://raicuparta.com/shipbreaker-vr-mod) | Yes | No |
+| Firewatch | [Two Forks VR](https://raicuparta.com/firewatch-vr-mod) | Yes | No |
+| The Stanley Parable | [StanleyVR](https://raicuparta.com/stanley-parable-vr-mod) | Yes | No |
+| Neon White | [HeavenVR](https://raicuparta.com/neon-white-vr-mod) | Yes | No |
