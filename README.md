@@ -28,6 +28,7 @@ A list of PC games that weren't originally designed to be played in VR but have 
 | Prey (2006) | [PreyVR](https://github.com/lvonasek/PreyVR) | No | Yes | |
 | Doom | [QuestZDoom](https://github.com/DrBeef/QuestZDoom) | No | Yes | |
 | | [GZ3DOOM](https://github.com/Fishbiter/gz3doom) | Yes | No | |
+| Doom 2 | [QuestZDoom](https://github.com/DrBeef/QuestZDoom) | No | Yes | |
 | Heretic | [QuestZDoom](https://github.com/DrBeef/QuestZDoom) | No | Yes | |
 | Hexen Beyond Heretic | [QuestZDoom](https://github.com/DrBeef/QuestZDoom) | No | Yes | |
 | Risk of Rain 2 | [Risk of Rain 2 VR Mod](https://thunderstore.io/package/DrBibop/VRMod/#:~:text=Playing%20in%20VR%20should%20be,mode%20in%20the%20game%27s%20properties.) | Yes | No | |
