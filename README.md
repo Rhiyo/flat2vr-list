@@ -20,3 +20,6 @@ A list of PC games that weren't originally designed to be played in VR but have 
 | Gunfire Reborn | [GunfireRebornVRMod](https://github.com/xPrinny/GunfireRebornVRMod) | Yes | No |
 | Subnautica | [SubmersedVR](https://github.com/xPrinny/GunfireRebornVRMod) | Yes | No |
 | Ultrakill | [VRTRAKILL](https://github.com/whateverusername0/VRTRAKILL) | Yes | No |
+| Duke Nukem 3D | [RazeXR](https://github.com/DrBeef/RazeXR) | No | Yes |
+| Blood | [RazeXR](https://github.com/DrBeef/RazeXR) | No | Yes |
+| Shadow Warrior | [RazeXR](https://github.com/DrBeef/RazeXR) | No | Yes |
