@@ -23,3 +23,4 @@ A list of PC games that weren't originally designed to be played in VR but have 
 | Duke Nukem 3D | [RazeXR](https://github.com/DrBeef/RazeXR) | No | Yes |
 | Blood | [RazeXR](https://github.com/DrBeef/RazeXR) | No | Yes |
 | Shadow Warrior | [RazeXR](https://github.com/DrBeef/RazeXR) | No | Yes |
+| Prey (2006) | [PreyVR](https://github.com/lvonasek/PreyVR) | No | Yes |
