@@ -4,8 +4,8 @@ A list of PC games that weren't originally designed to be played in VR but have 
 | Game | Mod | PCVR | Sideload |
 |-|-|-|-|
 | The Elder Scrolls III Morrowind | [OpenMW VR](https://gitlab.com/madsbuvi/openmw) | Yes | Not really - can load only non VR |
-| Star Wars Jedi Knight: Jedi Academy | [JKXR](https://github.com/DrBeef/JKXR) | No | Yes |
-| Star Wars Jedi Knight II: Jedi Outcast | [JKXR](https://github.com/DrBeef/JKXR) | No | Yes |
+| Star Wars Jedi Knight: Jedi Academy | [JKXR](https://github.com/DrBeef/JKXR) | Yes | Yes |
+| Star Wars Jedi Knight II: Jedi Outcast | [JKXR](https://github.com/DrBeef/JKXR) | Yes | Yes |
 | Deux Ex | [DXU24](https://twitter.com/DXU241)https://twitter.com/DXU241 | No | Yes |
 | Half-Life | [Half-Life VR Mod](https://store.steampowered.com/app/1908720/HalfLife_VR_Mod/) | Yes | No |
 | | [Lambda1VR](https://github.com/DrBeef/Lambda1VR) | No | Yes |
