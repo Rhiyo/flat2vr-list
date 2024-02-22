@@ -35,7 +35,7 @@ Games that run directly on the device, usually sideloaded with something such as
 | Shadow Warrior | [RazeXR](https://github.com/DrBeef/RazeXR) | No | Yes | |
 | Prey (2006) | [PreyVR](https://github.com/lvonasek/PreyVR) | No | Yes | |
 | Doom | [QuestZDoom](https://github.com/DrBeef/QuestZDoom) | No | Yes | |
-| | [GZ3DOOM](https://github.com/Fishbiter/gz3doom) | Yes | No | |
+| | [GZ3DOOMVR](https://github.com/hh79/gzdoomvr) | Yes | No | |
 | Doom 2 | [QuestZDoom](https://github.com/DrBeef/QuestZDoom) | No | Yes | |
 | Heretic | [QuestZDoom](https://github.com/DrBeef/QuestZDoom) | No | Yes | |
 | Hexen Beyond Heretic | [QuestZDoom](https://github.com/DrBeef/QuestZDoom) | No | Yes | |
