@@ -1,7 +1,15 @@
 # flat2vr-list
 A list of PC games that weren't originally designed to be played in VR but have a mod or option to.
 
-| Game | Mod | PCVR | Sideload | Notes |
+## PCVR
+Running on your pc and streaming to your VR device, often via OpenVR/XR standard.
+
+## Standalone
+Games that run directly on the device, usually sideloaded with something such as [sidequest](https://sidequestvr.com/)
+
+## List
+
+| Game | Mod | PCVR | Standalone | Notes |
 |-|-|-|-|-|
 | The Elder Scrolls III Morrowind | [OpenMW VR](https://gitlab.com/madsbuvi/openmw) | Yes | Not really - can load only non VR | |
 | Star Wars Jedi Knight: Jedi Academy | [JKXR](https://github.com/DrBeef/JKXR) | Yes | Yes | |
