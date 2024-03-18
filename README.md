@@ -47,3 +47,4 @@ Games that run directly on the device, usually sideloaded with something such as
 | Neon White | [HeavenVR](https://raicuparta.com/neon-white-vr-mod) | Yes | No | |
 | Ultima 4 | [ANKH-VR](https://github.com/plaidpants/ANKH-VR) | Yes | Yes | | 
 | Penumbra: Overture | [VR Mod](https://github.com/newyork167/penumbra_vr) | Yes | No | |
+| Wolfenstein 3D | [Wolfenstein 3D VR](https://further-beyond.itch.io/wolf3dvr) | Yes | No | |
