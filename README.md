@@ -18,6 +18,7 @@ Games that run directly on the device, usually sideloaded with something such as
 | Half-Life | [Half-Life VR Mod](https://store.steampowered.com/app/1908720/HalfLife_VR_Mod/) | Yes | No | |
 | | [Lambda1VR](https://github.com/DrBeef/Lambda1VR) | No | Yes | |
 | Half-Life 2 | [Half-Life 2 VR Mod](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/) | Yes | No | |
+| | [HL2VRU](https://github.com/vittorioromeo/HL2VRU) | Yes | No | |
 | Alien Isolation | [MotherVR](https://github.com/Nibre/MotherVR/releases) | Yes | No | |
 | Doom 3 | [Doom3Quest](https://www.doom3quest.com/) | No | Yes | |
 | Doom 3 BFG | [DOOM-3-BFG-VR Fully Possessed](https://github.com/KozGit/DOOM-3-BFG-VR) | Yes | No | [Guide](https://www.reddit.com/r/ValveIndex/comments/o6qtnt/guide_playing_doom_3_bfg_vr_on_your_index_in_2021/) |
