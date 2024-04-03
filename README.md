@@ -49,3 +49,4 @@ Games that run directly on the device, usually sideloaded with something such as
 | Ultima 4 | [ANKH-VR](https://github.com/plaidpants/ANKH-VR) | Yes | Yes | | 
 | Penumbra: Overture | [VR Mod](https://github.com/newyork167/penumbra_vr) | Yes | No | |
 | Wolfenstein 3D | [Wolfenstein 3D VR](https://further-beyond.itch.io/wolf3dvr) | Yes | No | |
+| No One Lives Forever 2 | [R.E.A.L. mod](https://github.com/LukeRoss00/nolf2-real-mod) | Yes | No | 3dof only |
