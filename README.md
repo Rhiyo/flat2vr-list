@@ -51,3 +51,4 @@ Games that run directly on the device, usually sideloaded with something such as
 | Wolfenstein 3D | [Wolfenstein 3D VR](https://further-beyond.itch.io/wolf3dvr) | Yes | No | |
 | No One Lives Forever 2 | [R.E.A.L. mod](https://github.com/LukeRoss00/nolf2-real-mod) | Yes | No | 3dof only |
 | System Shock (2023) | [SystemShock-UEVR](https://github.com/Ashok0/SystemShock-UEVR) | Yes | No |
+| Halo: Combat Evolved (2003 Edition) | [HaloCEVR](https://github.com/LivingFray/HaloCEVR) | Yes | No | Not for MasterChief Collection Edition |
